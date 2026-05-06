@@ -19,6 +19,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Agile Coach / Scrum Master: guides agile ceremonies, removes blockers, coaches team on best practices.
+- UX Designer: designs user flows and interfaces, conducts usability testing, aligns design with requirements.
+- Subject Matter Expert (SME): provides domain expertise, reviews plans for feasibility and compliance risk.
+- Support / Release Coordinator: coordinates release timing, runs post-release validation, and manages support handoffs.
 
 ## Key Artifacts
 - Project Charter / One-pager
